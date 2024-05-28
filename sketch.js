@@ -6,7 +6,7 @@ let playerY = 350;
 let gameLost = false;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(1600, 800);
   
   // Inicializa com vários triângulos
   for (let i = 0; i < 50; i++) {
